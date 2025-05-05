@@ -1,4 +1,4 @@
-# Sistema de Gestión Comercial - Digital Búho S.A.C.
+# Sistema de Gestión Comercial
 
 ![Logo Digital Búho](https://cdn.worldvectorlogo.com/logos/digital-buho-1.svg)
 
@@ -67,7 +67,7 @@ app-swing/
    - Login → Pantalla Principal → Gestión de módulos
 
 3. **Credenciales**:
-   - Usuario: admin@digitalbuho.com
+   - Usuario: tu_usuario@gmail.com
    - Contraseña: [configurar durante instalación]
 
 ## 🛡️ Arquitectura y Patrones
